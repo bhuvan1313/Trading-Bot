@@ -1,0 +1,13 @@
+{
+  "name": "trading-bot",
+  "version": "1.0.0",
+  "description": "A simple stock trading bot using Node.js",
+  "main": "src/tradingBot.js",
+  "scripts": {
+    "start": "node src/tradingBot.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "dotenv": "^10.0.0"
+  }
+}
